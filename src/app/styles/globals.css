@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  padding: 10px;
+}
+
+.main {
+  display: flex;
+  height: 95vh;
+  width: 100%;
+  justify-content: space-between;
+}
