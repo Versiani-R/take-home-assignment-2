@@ -80,14 +80,14 @@ src/
 
 ### Prerequisites
 
-- Node.js (>=14.x)
-- npm (>=6.x)
+- Node.js (>=20.x.x)
+- npm (>=10.x.x)
 
 ### Installation
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-repo/rfq-processing-frontend.git
+    git clone https://github.com/Versiani-R/take-home-assignment-2 rfq-processing-frontend
     cd rfq-processing-frontend
     ```
 
